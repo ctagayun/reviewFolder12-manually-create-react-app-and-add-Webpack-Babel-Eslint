@@ -96,3 +96,4 @@ How to Webpack 5 - Setup Tutorial - https://www.robinwieruch.de/webpack-setup-tu
          "parser": "@babel/eslint-parser",
          "rules":{}
         }
+        
