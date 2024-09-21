@@ -1,4 +1,6 @@
 
+NOTE: IN THIS PROJECT WE WILL MANUALLY SETUP WEBPACK5 AND BABEL
+
 How to Webpack 5 - Setup Tutorial - https://www.robinwieruch.de/webpack-setup-tutorial/
 
 1. We are using Webpack to generate one JavaScript bundle from 
